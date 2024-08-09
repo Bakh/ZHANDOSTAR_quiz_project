@@ -125,6 +125,15 @@ const quizData = [
         e: "Cheap",
         correct: "e"
     },
+    {
+        question: "«Сонымен, бастық кім болды өзі?!",
+        a: "Анар!",
+        b: "Анар!",
+        c: "Анар!",
+        d: "Анар!",
+        e: "Анар!",
+        correct: "e"
+    },
 ];
 
 const quiz = document.getElementById('quiz');
